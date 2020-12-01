@@ -20,6 +20,8 @@ This is called a permutation encryption scheme.
 With the power of coding, I mapped the plainText to the key creating a Cipher Text.
 The file is no longer a wolf, try cracking this code without the key!
 ![5](https://user-images.githubusercontent.com/59797227/100775506-5e683080-33d1-11eb-9fb5-f17f923a8330.png)
+![4](https://user-images.githubusercontent.com/59797227/100804237-86b85500-33fa-11eb-9c0a-57597a47b1e5.png)
+
 
 # Decrypting the File
 Since I have the  "secret" key file, I can map the cipherText back to to the key and see the image again.
