@@ -1,11 +1,6 @@
 # File Encryption 🔒
 
-The file that will be encrypted is called "plainText" 
+This code is a simple permutation encryption scheme to encrypt and decrypt a file. This project involves scrambling a file's code, so that only the people who can crack code can open the file.
 
-1. This is the plainText read in binary mode (in the decimal system).
-
-
-
-The actual plainText file is a beautiful image of a wolf.
-
-
+# Opening the Original File
+The file that will be encrypted is called plainText. When we open the plainText file, it is is a beautiful image of a wolf.
