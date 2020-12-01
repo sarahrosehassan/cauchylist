@@ -14,7 +14,6 @@ This is the"secret" key which means that in encrypted file, 24 = 0, 68 = 1, 153 
 This is called a permutation encryption scheme.
 ![3](https://user-images.githubusercontent.com/59797227/100775496-5ad4a980-33d1-11eb-988b-4dc24684842c.png)
 
-# The Cipher Text
 With the power of coding, I mapped the plainText to the key, creating a Cipher Text.
 ![4](https://user-images.githubusercontent.com/59797227/100775500-5c9e6d00-33d1-11eb-9325-bdd2620d0e49.png)
 The file is no longer a wolf, try cracking this code without the key!
