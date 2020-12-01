@@ -12,9 +12,10 @@ I want to encrypt this file so that no one is allowed to see the wolf unless the
 # Encrypting the File
 This is the "secret" key which means that in encrypted file, 24 = 0, 68 = 1, 153 = 3, 216 = 4  ...
 
-This is called a permutation encryption scheme.
 
 ![3](https://user-images.githubusercontent.com/59797227/100775496-5ad4a980-33d1-11eb-988b-4dc24684842c.png)
+
+This is called a permutation encryption scheme.
 
 With the power of coding, I mapped the plainText to the key creating a Cipher Text.
 The file is no longer a wolf, try cracking this code without the key!
