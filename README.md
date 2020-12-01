@@ -1,5 +1,5 @@
 # File Encryption 🔒
-This project involves scrambling a file's code, so that only the people who can crack code with the key can open the file.
+This project involves scrambling a file's binary code, so that only the people who can crack code with the key can open the file.
 
 # Opening the Original File
 The file that will be encrypted is called plainText. When we open the plainText file, it is is a beautiful image of a wolf.
