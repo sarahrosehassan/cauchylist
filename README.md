@@ -16,7 +16,7 @@ This is called a permutation encryption scheme.
 
 ![3](https://user-images.githubusercontent.com/59797227/100775496-5ad4a980-33d1-11eb-988b-4dc24684842c.png)
 
-With the power of coding, I mapped the plainText to the key. The appears to be scrambled, creating a Cipher Text.
+With the power of coding, I mapped the plainText to the key. The code appears to be scrambled, creating a Cipher Text.
 The file is no longer a wolf, try cracking this code without the key!
 ![5](https://user-images.githubusercontent.com/59797227/100775506-5e683080-33d1-11eb-9fb5-f17f923a8330.png)
 
