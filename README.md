@@ -26,3 +26,4 @@ The file is no longer a wolf, try cracking this code without the key!
 # Decrypting the File
 Since I have the  "secret" key file, I can map the cipherText back to to the key and see the image again.
 ![6](https://user-images.githubusercontent.com/59797227/100775513-6031f400-33d1-11eb-8709-52b62801a4f9.png)
+![2](https://user-images.githubusercontent.com/59797227/100775485-590ae600-33d1-11eb-94d7-306aae10a202.png)
