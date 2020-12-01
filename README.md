@@ -10,7 +10,7 @@ This is the wolf file read in binary mode.
 I want to encrypt this file so that no one is allowed to see the wolf unless they have the key. 
 
 # Encrypting the File
-This is the "secret" key which means that in encrypted file, 24 = 0, 68 = 1, 153 = 3, 216 = 4  ...
+This is the "secret" key which means that in encrypted file, 24 = 0, 68 = 1, 153 = 2, 216 = 3  ...
 
 
 ![3](https://user-images.githubusercontent.com/59797227/100775496-5ad4a980-33d1-11eb-988b-4dc24684842c.png)
