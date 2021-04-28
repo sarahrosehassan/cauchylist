@@ -1,7 +1,7 @@
 # File Encryption 🔒
 This project involves scrambling a file's binary code, so that only the people who have the key can open the original file.
 
-Usually encryption is done for security reasons to prevent unwanted people from access.
+Usually encryption is done for security reasons to prevent unwanted people from access. To try it out run python3 test.py on the terminal!
 
 # Opening the Original File
 The file that will be encrypted is called plainText. When we open the plainText file, it is is a beautiful image of a wolf.
