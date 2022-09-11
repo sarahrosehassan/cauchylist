@@ -1,3 +1,6 @@
+# How To Use This Project
+Download python and run *python test.py*
+
 # File Encryption 🔒
 This project involves scrambling a file's binary code, so that only the people who have the key can open the original file.
 
